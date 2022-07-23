@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Odoo, Django**
 
-- 👯 I’m looking to collaborate on **iON**
+- 👯 I’m looking to collaborate on **Data Science Project**
 
 - 📫 How to reach me **navalsavita7@gmail.com**
 
